@@ -14,7 +14,10 @@ import '../Styles/Thum.css'
 function Thumb() {
   return (
     <div className='thumb'>
-
+      <div className="content-thumb">
+        <h1 className='title-thumb'>Lorem ipsum dolor sit amet</h1>
+        <p className='desc-thumb'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate beatae accusamus quis quia, aspernatur enim facilis pariatur nostrum neque. Vero, dolore quia soluta cum facere quas in unde ipsa aliquam?</p>
+      </div>
     </div>
   )
 }

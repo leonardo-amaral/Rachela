@@ -1,15 +1,22 @@
 [
   {
-    "title": "Crossaint Le Fur",
+    "title": "Crossaint Le Fur.",
     "img": "https://images.pexels.com/photos/3892469/pexels-photo-3892469.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro dolorem est excepturi praesentium ut, mollitia ipsa, nostrum nam aspernatur eum quia sequi recusandae harum officiis reprehenderit illo sint itaque temporibus?"
   },
   {
-    "title": "Tu Mama",
+    "title": "Tu Mama.",
     "img": "https://images.pexels.com/photos/6428247/pexels-photo-6428247.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro dolorem est excepturi praesentium ut, mollitia ipsa, nostrum nam aspernatur eum quia sequi recusandae harum officiis reprehenderit illo sint itaque temporibus?"
   },
   {
-    "background": "https://images.pexels.com/photos/954677/pexels-photo-954677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+    "title": "Sid Age of Ice.",
+    "img": "https://images.pexels.com/photos/8705561/pexels-photo-8705561.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro dolorem est excepturi praesentium ut, mollitia ipsa, nostrum nam aspernatur eum quia sequi recusandae harum officiis reprehenderit illo sint itaque temporibus?"
+  },
+  {
+    "title": "The Simpsoms.",
+    "img": "https://images.pexels.com/photos/4664463/pexels-photo-4664463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro dolorem est excepturi praesentium ut, mollitia ipsa, nostrum nam aspernatur eum quia sequi recusandae harum officiis reprehenderit illo sint itaque temporibus?"
   }
 ]

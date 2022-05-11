@@ -1,7 +1,8 @@
 header {
   background-image: linear-gradient(to left, rgba(0, 0, 0, 0.873), #4c2c0a);
   background-color: black;
-  border-bottom: 1px solid #fcdcb4;
+  border-bottom: 1px solid rgba(252, 220, 180, 0.5);
+  width: 100%;
 }
 
 .items {
