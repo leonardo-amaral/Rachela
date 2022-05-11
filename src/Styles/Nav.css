@@ -1,0 +1,37 @@
+header {
+  background-image: linear-gradient(to left, rgba(0, 0, 0, 0.873), #4c2c0a);
+  background-color: black;
+  border-bottom: 1px solid #fcdcb4;
+}
+
+.items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 5vw;
+}
+
+.Item-nav {
+  text-decoration: none;
+  color: #fcdcb4;
+  font-size: 12px;
+}
+
+.logo-text {
+  font-weight: 300;
+  color: #e1821d;
+  text-shadow: 1px 2px 1px #5a4b3c;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px;
+  justify-content: space-around;
+}
+
+.logo {
+  width: 30px;
+  border-radius: 100px;
+}
