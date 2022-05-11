@@ -22,8 +22,27 @@
 
 .title-thumb {
   color: #e1821d;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
 }
 
 .desc-thumb {
   color: #fcdcb4;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+.content-thumb {
+  display: flex;
+  flex-direction: column;
+  gap: 5vh;
+  align-items: center;
+}
+
+.btn-thumb {
+  margin-top: 5%;
+  width: 50%;
+  height: 6vh;
+  border: 1px solid #2f1c07;
+  background-color: #e1821d;
+  color: white;
+  border-radius: 10px;
 }
